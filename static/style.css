@@ -1,0 +1,22 @@
+body {
+    background-color: #f4f4f4;
+    align-items: center;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+    overflow: auto;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.completed {
+    text-decoration: line-through;
+    color: #999;
+}
+
+.buttons {
+    height: fit-content;
+}
